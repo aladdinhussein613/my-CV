@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Alaaeldin Hussein Taha - Junior Software Tester">
+    <title>Alaaeldin Hussein Taha | Software Tester</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: white;
+            margin-bottom: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact-info {
+            margin-top: 10px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .contact-info a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .skills ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills li {
+            background: #e7f3ff;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Alaaeldin Hussein Taha</h1>
+        <p>Junior Software Tester</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I am a detail-oriented and enthusiastic Junior Software Tester from Cairo, Egypt, with a passion for ensuring the quality of software. I am seeking an opportunity to leverage my testing skills and contribute to the development of high-quality software solutions.</p>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <h3>Quality Control Engineer</h3>
+        <p><strong>IT-Fusion Software House</strong> | July 2023 - Present</p>
+        <p>Worked on the following projects:</p>
+        <ul>
+            <li><strong>Nicedeer:</strong> Medical insurance web app connecting insurance companies with service providers.</li>
+            <li><strong>GHAZAL:</strong> Mobile app managing relationships between medical providers and insurance companies, supporting companies like AMC, EGYCARE, ELARABY, and more.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p><strong>Tanta University</strong><br>
+        Bachelor's Degree, Accounting</p>
+    </section>
+
+    <section>
+        <h2>Certifications</h2>
+        <ul>
+            <li>Manual Testing Course - QAcart</li>
+            <li>ISTQB® Foundation Level - QAcart</li>
+            <li>Effective Test Case and Bug Report Writing Techniques - MaharaTech - ITIMoo</li>
+            <li>Selenium WebDriver - QAcart</li>
+        </ul>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Proficient in manual testing techniques</li>
+            <li>Basic knowledge of automated testing tools (Selenium)</li>
+            <li>Strong analytical and problem-solving skills</li>
+            <li>Excellent bug reporting and test case writing skills</li>
+            <li>Mobile application testing</li>
+            <li>Experience using ALM tools (AzureDevOps)</li>
+        </ul>
+    </section>
+
+    <section class="contact-info">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:aladdinhussein613@gmail.com">aladdinhussein613@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/aladdin-hussein613" target="_blank">linkedin.com/in/aladdin-hussein613</a></p>
+        <p>Phone: 01555561954</p>
+    </section>
+
+    <footer>
+        <p>© 2024 Alaaeldin Hussein Taha</p>
+    </footer>
+
+</body>
+</html>
